@@ -1,0 +1,6 @@
+/demo/
+
+*.pdf
+curl
+-d
+-H
